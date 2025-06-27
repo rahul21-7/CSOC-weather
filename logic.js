@@ -6,6 +6,8 @@ const wind = document.querySelector('#wind');
 // const description = document.querySelector('#description');
 const button = document.querySelector('#getWeather');
 
+console.log("Hello from @rahul21-7");
+
 // const URL = { please use a valid URL here, Ive removed mine for privacy reasons };
 
 button.addEventListener('click', () => {
