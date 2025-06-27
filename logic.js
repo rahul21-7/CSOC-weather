@@ -10,9 +10,9 @@ console.log("Hello from @rahul21-7");
 
 // const URL = { please use a valid URL here, Ive removed mine for privacy reasons };
 
-button.addEventListener('click', () => {
-    getWeather();
-});
+// button.addEventListener('click', () => {
+//     getWeather();
+// });
 
 const getWeather = async () => {
     const response = await fetch(URL);
